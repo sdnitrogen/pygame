@@ -13,4 +13,4 @@ A fun 2D arcade-style game built with the 'pygame' python library. In the game y
 
 ### Preview
 
-<img src="maryo-preview.jpg" align="center">
+<img src="maryo-preview.png" align="center">
